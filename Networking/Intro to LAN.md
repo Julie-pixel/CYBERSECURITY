@@ -32,6 +32,8 @@ Your LAN right now:
 
 ## Quick Quiz
 
+---
+
 1. Can a hacker in Tokyo directly ARP spoof your computer on your home LAN? Why or why not?
 
 Why not : ARP is local only — never crosses a router.
@@ -46,7 +48,7 @@ Router
 
 ---
 
-### Hands‑on Task (do this now — very useful for hacking)
+### Hands‑on Task
 
 ---
 
@@ -58,7 +60,7 @@ cmd
 
 ipconfig | findstr "Default Gateway"
 
-![alt text](image3.png)
+![Networkingimages](Networkingimages/image3.png)
 
 - Linux:
 
@@ -73,7 +75,8 @@ ping [your router IP] -c 4   # on Linux
 
 ping [your router IP] -n 4   # on Windows
 
-![alt text](image4.png)
+![Networkingimages](Networkingimages/image4.png)
+
 
 Questions for you:
 

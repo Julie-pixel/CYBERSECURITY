@@ -6,7 +6,6 @@ Many beginners think "hacker" is the only job. Wrong. Here's the real landscape.
 
 ## Career Paths
 
-
 1. Offensive: (Penetration Tester, Red Teamer, Bug Bounty Hunter) Break into systems with permission, write reports, retest fixes.
 2. Defensive :	(SOC Analyst, Incident Responder, Security Engineer) Monitor alerts, investigate suspicious activity, block attacks.
 3. Governance/Risk : ( Compliance Analyst, GRC Specialist, Security Auditor) Read policies, check if company follows rules (HIPAA, GDPR, etc.)	
@@ -25,15 +24,15 @@ Other real roles:
 
 ### Quick Quiz 
 
-If you hate writing reports and love breaking things, which path fits best?
+1. If you hate writing reports and love breaking things, which path fits best?
 
 Offensive Security
 
-Which cert is the most famous for hands‑on offensive security?
+2. Which cert is the most famous for hands‑on offensive security?
 
 OSCP (Offensive Security Certified Professional)
 
-True or False: You need a computer science degree to get a cybersecurity job.
+3. True or False: You need a computer science degree to get a cybersecurity job.
 
 False
 

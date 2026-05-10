@@ -22,8 +22,11 @@ Quick rule:
 - IP addresses help you find a device.
 - MAC addresses help you identify a device uniquely.
 
+---
 
 ## Quick Quiz 
+
+---
 
 1. If you move your laptop from a coffee shop to your home, does your IP address change? Does your MAC address change?
 
@@ -37,7 +40,11 @@ IP (YES) is leased (DHCP), MAC (NO) is burned into the NIC.
 
 FALSE : MAC addresses never leave your local network (Layer 2). The internet only sees IPs.
 
+---
+
 ### Hands‑on Task 
+
+---
 
 On Windows (Command Prompt):
 

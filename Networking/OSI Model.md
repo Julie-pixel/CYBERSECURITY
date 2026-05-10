@@ -36,6 +36,7 @@ Example:
 
 ## Quick Quiz 
 
+---
 
 1. Which layer deals with IP addresses?
 
