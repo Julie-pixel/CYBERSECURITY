@@ -1,6 +1,7 @@
 # Defensive Security (Intro)
 
 Theory
+
 If Offensive is “find the hole,” Defensive Security is “find the hole, fix it, and make sure nobody gets in again.”
 
 Defenders are called Blue Team, SOC Analysts (Security Operations Center), Incident Responders and etc.
@@ -59,9 +60,10 @@ Questions for you:
 
 2. Pick one port number (like 443 or 22). Do a quick web search: what service normally uses that port?
 
- 443 : HTTPS 22: SSH (Secure Shell)
+ 443 : HTTPS 
+ 
+ 22: SSH (Secure Shell)
 
 3. If you were a defender, would you want to know every listening port on your network? Why?
 
  Yes because it shows where an attacker can attack(attack surface)
-

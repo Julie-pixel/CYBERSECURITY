@@ -1,6 +1,7 @@
 # Offensive Security (Intro)
 
 Theory
+
 Offensive Security = authorized attacking.
 Think: "ethical hacking," "red team," "penetration testing."
 
